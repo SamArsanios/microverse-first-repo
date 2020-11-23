@@ -1,13 +1,6 @@
-# .gitignore
-node_modules/
-
+node_modules
 .hintrc
-
 .stylelintrc.json
-
 package-lock.json
-
 package.json
-
-# Markdown file
 .test.md 
