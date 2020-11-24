@@ -2,17 +2,16 @@
 
 # Project Name
 
-> One paragraph statement about the project.
+> Linter Set Up
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This projects was done to check to test if linters were setup properly.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
+- Linters
 
 ## Live Demo
 
@@ -45,15 +44,11 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@SamArsanios](https://github.com/SamArsanios)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@AshakaE](https://github.com/AshakaE)
 
 ## 🤝 Contributing
 
@@ -73,4 +68,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This is a test project.
