@@ -4,8 +4,6 @@
 
 > Linter Set Up
 
-![screenshot](./app_screenshot.png)
-
 This projects was done to check to test if linters were setup properly.
 
 ## Built With
